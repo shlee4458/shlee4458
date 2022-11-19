@@ -2,7 +2,7 @@
 <h3>A graduate school applicant</h3>
 
 💬 Repository Walk Through:
-> I have included 
+p(. I have included 
 
 🌱 Completed Courses:
       -📃Data Structure using Java and Discrete Mathematics**
