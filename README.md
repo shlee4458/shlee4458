@@ -1,13 +1,13 @@
-<h1>Hi 👋, I'm Seunghan Lee</h1>
+<h1>Hi👋, I'm Seunghan Lee</h1>
 <h3>A graduate school applicant</h3>
 
-- 💬 Repository Walk Through:
+💬 Repository Walk Through:
+> I have included 
 
-
-- 🌱 Completed Courses:
+🌱 Completed Courses:
       -📃Data Structure using Java and Discrete Mathematics**
-- 🌱 
-- 🌱  
+🌱 
+🌱  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
