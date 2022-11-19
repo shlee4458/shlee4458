@@ -2,7 +2,7 @@
 😊 Thank you for your interest in my application. <br>
 🔎 You can find : Assignments and projects I have completed for each courses for the reference. <br>
 <br>
-📗 CS50: Introduction to Computer Science, Harvard University (Spring 2022) - *Completed* <br>
+📗 CS50: Introduction to Computer Science, Harvard University (Spring 2022) - Completed <br>
 📗 CS61A: Structure and Interpretation of Computer Programs, UC Berkeley (Fall 2022) - Completed <br>
 📘 CS61B: Data Structures, UC Berkeley (Fall 2022) - On-Going <br>
 
