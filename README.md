@@ -1,10 +1,10 @@
 <h2>Hi👋, I'm Seunghan Lee</h2>
 
 1. About myself:
-  - I am an unconventional applicant to graduate programs in computer science.
-  - I have a background in Economics/Accounting and I aspire to transition into the world of technology through the graduate program. 
-  - With the goal of starting the graduate program in Fall 2023, I am actively learning through Online courses 
-  - from prestigious universities in the United States while working full-time as a CPA.
+   - I am an unconventional applicant to graduate programs in computer science.
+   - I have a background in Economics/Accounting and I aspire to transition into the world of technology through the graduate program. 
+   - With the goal of starting the graduate program in Fall 2023, I am actively learning through Online courses 
+   - from prestigious universities in the United States while working full-time as a CPA.
 
 2. Completed Courses:
 📃Data Structure using Java and Discrete Mathematics**
