@@ -7,7 +7,7 @@
 📘 CS61B: Data Structures, UC Berkeley (Fall 2022) - On-Going <br>
 <br>
 📖 Learning : Courses I will take before the matriculation to the program. <br>
-📙 The Odin Proejct: Advanced HTML/CSS and Ruby on Rails Framework https://www.theodinproject.com/paths <br>
+📙 The Odin Proejct: Advanced HTML/CSS and Ruby on Rails Framework (Link: https://www.theodinproject.com/paths) <br>
 📙 Mathematics in Computer Science, MIT OpenCourseWare <br>
 📙 NYU Tandon Engineering Bridge Program <br> 
 
