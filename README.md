@@ -6,7 +6,7 @@
 📗 CS61A: Structure and Interpretation of Computer Programs, UC Berkeley (Fall 2022) - Completed <br>
 📘 CS61B: Data Structures, UC Berkeley (Fall 2022) - On-Going <br>
 <br>
-📖 Learning : Courses I will take before the matriculation to the program. <br>
+📖 Learning : Courses I will complete before the matriculation to the program. <br>
 📙 Mathematics in Computer Science, MIT OpenCourseWare <br>
 📙 NYU Tandon Engineering Bridge Program <br>
 📙 The Odin Proejct: Advanced HTML/CSS and Ruby on Rails Framework<br>
