@@ -1,19 +1,10 @@
-<h2>Hi👋, I'm Seunghan Lee</h2>
-
-1. About Myself:
-   - I am an unconventional applicant to graduate programs in computer science.
-   - I have a background in Economics/Accounting and I aspire to transition into techn industry through the graduate program. 
-   - With the goal of starting the graduate program in Fall 2023, I am actively taking Online Computer Science courses <br> from universities in the United States while working full-time as a CPA.
-
-2. You can find:
-     - Assignments and projects I have completed for each courses for the reference.
-
-3. Completed Courses:  
-      - CS50: Introduction to Computer Science, Harvard University (Spring 2022)
-      - CS61A: Structure and Interpretation of Computer Programs, University of California, Berkeley (Fall 2022)
-
-4. Courses I am currently taking:
-      - CS61B: Data Structures, University of California, Berkeley (Fall 2022)
+<h2>Hello👋, I'm Seunghan Lee</h2>
+😊 Thank you for your interest in my application
+🔎 You can find: Assignments and projects I have completed for each courses for the reference.
+<br>
+📗 CS50: Introduction to Computer Science, Harvard University (Spring 2022) - Completed
+📗 CS61A: Structure and Interpretation of Computer Programs, University of California, Berkeley (Fall 2022) - Completed
+📘 CS61B: Data Structures, University of California, Berkeley (Fall 2022) - On-Going
 
 
 
