@@ -8,7 +8,6 @@
 <br>
 📖 Learning : Courses I will complete before the matriculation to the program. <br>
 📙 Mathematics in Computer Science, MIT OpenCourseWare <br>
-📙 NYU Tandon Engineering Bridge Program <br>
 📙 The Odin Proejct: Advanced HTML/CSS and Ruby on Rails Framework<br>
 📙 Personal Projects <br>
 
