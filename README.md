@@ -1,4 +1,4 @@
-<h2>Hello👋, I'm Seunghan Lee</h2>
+<h2>Hello👋, I'm Seunghan Lee!</h2>
 😊 Welcome to my github page. <br>
 <br>
 🔎<b>Assignments and labs that I have completed for courses including;</b><br>
