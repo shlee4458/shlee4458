@@ -1,10 +1,13 @@
 <h2>Hello👋, I'm Seunghan Lee</h2>
-😊 Thank you for your interest in my application. <br>
+😊 Welcome to my github page. <br>
 <br>
 🔎 You can find : Assignments and projects I have completed for each courses for the reference. <br>
 📗 CS50: Introduction to Computer Science, Harvard University (Spring 2022) - Completed <br>
 📗 CS61A: Structure and Interpretation of Computer Programs, UC Berkeley (Fall 2022) - Completed <br>
-📘 CS61B: Data Structures, UC Berkeley (Fall 2022) - On-Going <br>
+📗 CS61B: Data Structures, UC Berkeley (Fall 2022) - Completed <br>
+📘 CS61C: Computer Architecture, UC Berkeley (Fall 2020) - On-Going <br>
+📘 CS15-445: Intro to Database Systems, Carnegie Mellon University (Spring 2023) - On-Going <br>
+📘 Computer Networking, a top down approach, by Jim Kurose - On-Going <br>
 <br>
 📖 Learning : Courses I will complete before the matriculation to the program. <br>
 📙 Mathematics in Computer Science, MIT OpenCourseWare <br>
