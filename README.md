@@ -15,7 +15,6 @@
 ⚡<a href="https://github.com/shlee4458/camp-review"> Camp Review Website </a>: Game Backend Development from scratch using Java <br>
 ⚡<a href="https://github.com/shlee4458/GenerativeDungeon"> Generative Dungeon Game </a>: Game Backend Development from scratch using Java <br>
 ⚡<a href="https://github.com/shlee4458/jack-compiler"> Compiler </a>: Jack Compiler, Virtual Machine Translator, Assembler Implementation <br>
-
 ⚡<a href="https://github.com/shlee4458/2048"> 2048 Game </a>: Python Implementation of 2048 game <br>
 ⚡<a href="https://github.com/shlee4458/EmployeeManagementApp"> Employment Management App </a>: Employment Management System Implemented using Spring Framework <br>
 ⚡<a href="https://github.com/shlee4458/bustub-private"> Database Management System </a>: Building database management system from scratch using C++ <br>
