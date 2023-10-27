@@ -13,7 +13,7 @@
 <br>
 
 🔎<b>Some of the Personal Projects You can Find</b> <br>
-⚡<a href="https://github.com/shlee4458/camp-review"> Camp Review Website </a>: Game Backend Development from scratch using Java <br>
+⚡<a href="https://github.com/shlee4458/camp-review"> Camp Review Website </a>: Full-stack web dev project using Node.js, Express.js, and front-end tools.<br>
 ⚡<a href="https://github.com/shlee4458/GenerativeDungeon"> Generative Dungeon Game </a>: Game Backend Development from scratch using Java <br>
 ⚡<a href="https://github.com/shlee4458/jack-compiler"> Compiler </a>: Jack Compiler, Virtual Machine Translator, Assembler Implementation <br>
 ⚡<a href="https://github.com/shlee4458/2048"> 2048 Game </a>: Python Implementation of 2048 game <br>
