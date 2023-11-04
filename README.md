@@ -6,9 +6,10 @@
 📗 CS61A: Structure and Interpretation of Computer Programs, UC Berkeley (Fall 2022) - Complete <br>
 📗 CS61B: Data Structures, UC Berkeley (Fall 2022) - Complete <br>
 📗 Nand2Tetris: Computer Systems, The University of Jerusalem - Complete <br>
+📗 COMSCI 453: Computer Networking, a top down approach, UMass - Complete <br>
 📘 CS61C: Computer Architecture, UC Berkeley (Fall 2020) - On-Going <br>
 📘 CS15-445: Intro to Database Systems, Carnegie Mellon University (Spring 2023) - On-Going <br>
-📘 COMSCI 453: Computer Networking, a top down approach, UMass - On-Going <br>
+
 
 <br>
 
